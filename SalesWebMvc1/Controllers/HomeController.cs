@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using SalesWebMvc1.Models.ViewModels;
 
 namespace SalesWebMvc1.Controllers
 {
